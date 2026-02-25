@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Shardul04
 - 🌱 I’m currently learning Python...
 - 📫 How to reach me - shardulpadale2000@gmail.com ...
+- 🎓 studying in Lovely Professional University(ECE)
 
 <!---
 Shardul04/Shardul04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
