@@ -10,7 +10,7 @@ I enjoy building practical hardware-software projects involving **microcontrolle
 
 ## 🛠️ Skills
 
-**Languages:** Python · C/C++ · VHDL · Verilog
+**Languages:** Python · C/C++(Arduino) · VHDL · Verilog
 
 **Embedded:** Arduino · ESP32 · Raspberry Pi · Embedded Linux
 
