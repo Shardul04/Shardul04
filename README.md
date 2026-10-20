@@ -14,7 +14,7 @@ I enjoy building practical hardware-software projects involving **microcontrolle
 
 **Embedded:** Arduino · ESP32 · Raspberry Pi · Embedded Linux
 
-**Hardware:** Sensors · I²C · I²S · GPIO · LCD/OLED · Motor Drivers · PCB Fundamentals
+**Hardware:** Sensors · I²C · I²S · GPIO · LCD/OLED · Microcontrollers/Microprocessors · PCB Fundamentals
 
 **FPGA & Tools:** Xilinx Vivado · Proteus · KiCad · Arduino IDE · Git/GitHub · Linux
 
